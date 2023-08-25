@@ -5,7 +5,6 @@ C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\bin\Debug\net5.0\
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\bin\Debug\net5.0\LeagueApp.runtimeconfig.json
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\bin\Debug\net5.0\LeagueApp.runtimeconfig.dev.json
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\bin\Debug\net5.0\LeagueApp.dll
-C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\bin\Debug\net5.0\ref\LeagueApp.dll
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\bin\Debug\net5.0\LeagueApp.pdb
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -360,7 +359,6 @@ C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\LeagueApp.RazorAssemblyInfo.cache
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\LeagueApp.RazorAssemblyInfo.cs
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\staticwebassets\LeagueApp.StaticWebAssets.Manifest.cache
-C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\staticwebassets\LeagueApp.StaticWebAssets.xml
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\scopedcss\bundle\LeagueApp.styles.css
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\LeagueApp.TagHelpers.input.cache
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\LeagueApp.TagHelpers.output.cache
@@ -384,3 +382,9 @@ C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\ref\LeagueApp.dll
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\LeagueApp.pdb
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\LeagueApp.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\refint\LeagueApp.dll
+C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\staticwebassets\LeagueApp.StaticWebAssets.Pack.cache
+C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\staticwebassets\msbuild.LeagueApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\staticwebassets\msbuild.build.LeagueApp.props
+C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LeagueApp.props
+C:\Users\User\Desktop\CodeCademy\Codecademy Projects\LeagueApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LeagueApp.props
